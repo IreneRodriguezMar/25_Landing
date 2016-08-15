@@ -1,0 +1,48 @@
+/* Tu CSS va aqui */
+a{/*para todos los links*/
+	text-decoration: none;
+}
+img{/*imagen de logo*/
+	width: 20%;
+	margin: 3%;
+}
+.menu{/* menu*/
+	color: gray;
+}
+.fondogray{/*fondo gris*/
+	background-color: gray;
+	height: 600%;
+}
+.textgra{
+	font-size:350%; 
+	margin-left: 5%;
+}
+.textpeq{
+	font-size: 100%;
+	margin-left: 5%;
+}
+.cajagris{
+	background-color: silver;
+	height: 10%;
+	width: 30%;
+	margin-top: 5%;	
+	border-radius: 8%;
+}
+.get{
+	margin-top: 5%;
+	margin-bottom: 1%;
+}
+input{/*estilos del formulario*/
+	border: 1px solid;
+	padding: 0 2%;
+	padding: 1%;
+	margin: 1%;
+	width: 50%;
+	display: block;
+}
+input.boton-azul{/*estilos del formulario*/
+	border: 0;
+	background-color: #08D0F8;
+	width: 50%;
+	margin-bottom: 5%;
+}
